@@ -4,6 +4,6 @@
 
 - lime
 - avocado
-- salt
+- 1/4 tsp of salt
 
 ##Instructions
